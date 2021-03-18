@@ -1,0 +1,21 @@
+# Setup
+title:               frohwalt.de
+tagline:             'the homepage'
+description:         'Es gibt nichts zu sehen, bitte gehen sie weiter.'
+#url:                 https://frohwalt.de
+#baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Frohwalt Egerer
+  url:               https://frohwalt.de
+  email:             mail@frohwalt.de
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
