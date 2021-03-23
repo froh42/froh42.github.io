@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Homepage
+title: new homepage
 ---
 
 Recently [Flo](http://florian.sesser.at/) and I met and revived the
